@@ -61,7 +61,7 @@ $adapter = new Adapter([
 	'database' => 'test',
 	'username' => 'root',
 	'password' => '',
-	'hostport' => '3306',
+	'port' => '3306',
 ]);
 
 $e = new Enforcer('path/to/model.conf', $adapter);
