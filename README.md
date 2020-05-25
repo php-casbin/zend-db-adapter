@@ -6,6 +6,10 @@
 [![Total Downloads](https://poser.pugx.org/casbin/zend-db-adapter/downloads)](https://packagist.org/packages/casbin/zend-db-adapter)
 [![License](https://poser.pugx.org/casbin/zend-db-adapter/license)](https://packagist.org/packages/casbin/zend-db-adapter)
 
+> ## Repository abandoned 2020-05-25
+>
+> This repository has moved to [php-casbin/laminas-db-adapter](https://github.com/php-casbin/laminas-db-adapter).
+
 [Zend-Db](https://github.com/zendframework/zend-db) adapter for [PHP-Casbin](https://github.com/php-casbin/php-casbin).
 
 The list of officially supported drivers:
